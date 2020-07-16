@@ -5,7 +5,7 @@ Jonathan T. Barron, ECCV, 2020
 
 Running this code should reproduce the figures and tables shown in the paper.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jonbarron/hist_thresh/blob/master/GHT.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonbarron/hist_thresh/blob/master/GHT.ipynb)
 
 If you use this code, please cite it:
 ```
