@@ -4,12 +4,7 @@ This directory contains Numpy reference code for
 Jonathan T. Barron, ECCV, 2020
 
 Running this code should reproduce the figures and tables shown in the paper.
-For a clone of this repo that contains the imagery necessary to generate
-the table results, see [here](https://github.com/jonbarron/hist_thresh/).
-
-This code repository is shared with all of Google Research, so it's not very
-useful for reporting or tracking bugs. If you have any issues using this code,
-please do not open an issue, and instead just email jonbarron@gmail.com.
+[![Open Tiny-NeRF in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jonbarron/hist_thresh/blob/master/GHT.ipynb)<br>
 
 If you use this code, please cite it:
 ```
